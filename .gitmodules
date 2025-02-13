@@ -1,3 +1,6 @@
 [submodule "EDA"]
 	path = EDA
 	url = https://github.com/ds4e/EDA.git
+[submodule "wrangling"]
+	path = wrangling
+	url = https://github.com/ds4e/wrangling.git
