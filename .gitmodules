@@ -4,3 +4,6 @@
 [submodule "wrangling"]
 	path = wrangling
 	url = https://github.com/ds4e/wrangling.git
+[submodule "knn"]
+	path = knn
+	url = https://github.com/ds4e/knn.git
