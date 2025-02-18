@@ -7,3 +7,6 @@
 [submodule "knn"]
 	path = knn
 	url = https://github.com/ds4e/knn.git
+[submodule "visualization"]
+	path = visualization
+	url = https://github.com/ds4e/visualization.git
