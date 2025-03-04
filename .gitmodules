@@ -10,3 +10,6 @@
 [submodule "visualization"]
 	path = visualization
 	url = https://github.com/ds4e/visualization.git
+[submodule "clustering"]
+	path = clustering
+	url = https://github.com/ds4e/clustering.git
