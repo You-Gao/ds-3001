@@ -1,3 +1,4 @@
 local_venv/
 .ipynb
 .ipynb_checkpoints/
+data/
